@@ -1,2 +1,2 @@
-# document
-- [插件文档](/document/plugin/)
+# 文档
+- [插件开发文档](/document/plugin/)
